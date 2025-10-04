@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Steven Serrao  
 
-Aspiring **.NET Developer** from **South Africa**, currently studying towards a **BSc in Information Technology**.  
+Aspiring **.NET Developer** from **South Africa**, currently studying towards a **BSc in Information Technology** with **Richfield Graduate Institute**.  
 I’m focused on back-end and full-stack development — specifically **ASP.NET Core**, **C#**, and **React/TypeScript**.  
 
 I care about writing **clean, maintainable code** and building projects that actually work in the real world — not just look good on GitHub.  
@@ -42,9 +42,25 @@ Clean, functional, and designed to showcase my projects as I complete them.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StevenSerrao1&show_icons=true&theme=tokyonight&hide_border=true" alt="Steven's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StevenSerrao1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenSerrao1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ## 📫 Contact Me
 📧 **Email:** stevenserrao111@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/steven-serrao](https://www.linkedin.com/in/steven-serrao-0729841b1/)  
+💼 **LinkedIn:** [linkedin.com/in/steven-serrao](https://linkedin.com/in/steven-serrao)  
 🐙 **GitHub:** [github.com/StevenSerrao1](https://github.com/StevenSerrao1)
 
 ---
