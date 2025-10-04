@@ -20,17 +20,17 @@ I care about writing **clean, maintainable code** and building projects that act
 **🎵 SoundBite™**  
 A music rating app I’m currently building using **ASP.NET Core + React**.  
 It’ll let users rate songs, write reviews, and discover new music through other users’ opinions.  
-➡️ [View Repo (in progress)](https://github.com/StevenSerrao1/SoundBite)
+➡️ [View Repo (in progress)](#)
 
 **💬 ChatFlow**  
 A mobile chat app I’m developing with **React Native + TypeScript**.  
 Lightweight, minimal, and focused on real-time messaging and smooth UI.  
-➡️ [View Repo (in progress)](https://github.com/StevenSerrao1/ChatFlow)
+➡️ [View Repo (in progress)](#)
 
 **🌐 Portfolio Website**  
 My personal developer portfolio built with **React + ASP.NET Core**.  
 Clean, functional, and designed to showcase my projects as I complete them.  
-➡️ [View Repo (in progress)](https://github.com/StevenSerrao1/Portfolio)
+➡️ [View Repo (in progress)](https://github.com/StevenSerrao1/Official-Projects/tree/master/Portfolio-App/Initial-MyPortfolio)
 
 ---
 
@@ -43,8 +43,8 @@ Clean, functional, and designed to showcase my projects as I complete them.
 ---
 
 ## 📫 Contact Me
-📧 **Email:** steven.serrao.dev@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/steven-serrao](https://linkedin.com/in/steven-serrao)  
+📧 **Email:** stevenserrao111@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/steven-serrao](https://www.linkedin.com/in/steven-serrao-0729841b1/)  
 🐙 **GitHub:** [github.com/StevenSerrao1](https://github.com/StevenSerrao1)
 
 ---
