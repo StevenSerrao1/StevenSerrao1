@@ -30,7 +30,7 @@ Lightweight, minimal, and focused on real-time messaging and smooth UI.
 **🌐 Portfolio Website**  
 My personal developer portfolio built with **React + ASP.NET Core**.  
 Clean, functional, and designed to showcase my projects as I complete them.  
-➡️ [View Repo (in progress)](https://github.com/StevenSerrao1/Official-Projects/tree/master/Portfolio-App/Initial-MyPortfolio)
+➡️ [View Repo (in progress)](https://github.com/StevenSerrao1/Web-Portfolio)
 
 ---
 
